@@ -215,7 +215,7 @@ podwal.work@gmail.com
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Princepodwalverma&label=Profile%20Views&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Princepodwalverma&label=Profile%20Views&style=for-the-badge&color=2EA043" alt="Profile Views" />
 </p>
 
 ## ⭐ If you like my work, don't forget to star my repositories!
